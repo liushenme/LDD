@@ -1,0 +1,11 @@
+name = "baftd_default"
+
+[model.video_encoder]
+type = "c3d"
+
+[model.audio_encoder]
+type = "pre"
+
+[optimizer]
+learning_rate = 0.0001
+weight_decay = 0.0001
