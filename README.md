@@ -4,7 +4,7 @@ Code for the paper 'Listening Deepfake Detection: A New Perspective Beyond Speak
 ## Dataset
 Downlowd from [ld_dataset](https://pan.baidu.com/s/1uYDEn7n9TReX_ze-Ds636g?pwd=casa) 
 
-## Train and Infer
+## Train and Eval
 ```bash
 ./train.sh
 ./eval.sh
